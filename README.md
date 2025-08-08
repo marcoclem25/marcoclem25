@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Marco Clemente
 
-<!--
-**marcoclem25/marcoclem25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Informatics and Automotive Engineering student | UNIVPM  
+- Passionate about building smart software solutions  
+- Focus on C, C++, Flutter, HTML, Java, JavaScript, Kotlin, Laravel, Matlab, PHP, Python
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Collectathon Game](https://github.com/marcoclem25/collectathon-game) — Java-based collection challenge with score tracking  
+- [Seafood Distribution System](https://github.com/marcoclem25/seafood-distribution-system) — Sustainable product logistics with Python & PHP  
+- [Healthcare Service Platform](https://github.com/marcoclem25/healthcare-service-platform) — Laravel web platform for appointment and staff management
+
+## Linkedin
+[LinkedIn](https://www.linkedin.com/in/marcoclemente/)
